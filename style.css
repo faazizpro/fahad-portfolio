@@ -27,7 +27,7 @@ h2{
 }
 
 .top-banner{
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 
@@ -71,7 +71,7 @@ p{
 }
 
 .dream-big{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     
